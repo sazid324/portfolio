@@ -54,10 +54,11 @@ Technical focus: Next.js, React, TypeScript, Tailwind CSS, Django (REST), Postgr
 ---
 
 ## Certifications
-
-- Front‑End Software Engineering — Skyscanner / Forage
-- REST API Implementation — Programming Hero
-- Python Development — Programming Hero
+- [Front‑End Software Engineering — Skyscanner / Forage](https://1drv.ms/b/c/4933e43be0c5d84b/EZLIC_G9GM1CtZqt_rM-hfQBJf4PYkqaEcq_I9iqbPKDeA?e=RQyefm)
+- [Python Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ERn7A8vawBhDrLiSg_OGdVUBAQu54ecr_DioxVaUpIJusA?e=a89W4T)
+- [React Development - Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ETsJSTzVgt5Dvwnoy-XMcv4BYvvdc5zWtD0iTvss9DBQkA?e=rhbTyB)
+- [REST API Implementation — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EXNvCGs_zNZMmmJcctwDwY8BKKm-Q3n8zl1RRpZfLkdwog?e=9o9NXb)
+- [SQL - HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EdDAt47CMelDjO4N9vrcjEIBfAIDt5GbBSYIDdwfXXJwUg?e=4OV1hN)
 
 ---
 
