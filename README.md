@@ -28,7 +28,6 @@ Built secure authentication, product and order management, and a dynamic admin d
 
 **Tech Stack:** Next.js, Django REST Framework, PostgreSQL, NextAuth, Tailwind CSS
 
----
 
 ### Nexkit — Online Utilities Website
 **Role:** Full-Stack Engineer  
