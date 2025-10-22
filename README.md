@@ -71,7 +71,7 @@ Developed a modular API-first backend and a unified, intuitive frontend experien
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Shadcn UI |
 | **Backend** | Python, Django, Django REST Framework, REST API design |
 | **Databases** | PostgreSQL, MySQL |
-| **Others** | Git, SQL, HTML, CSS, JavaScript, JWT, NextAuth |
+| **Others** | Git, SQL, HTML, CSS, JavaScript, JWT, NextAuth 
 
 ---
 
