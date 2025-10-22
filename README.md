@@ -6,10 +6,9 @@ I’m Sazid Ahsan Toushik, a full-stack developer passionate about creating inno
 
 ## Quick links
 
-- Location: Narsingdi, Bangladesh
-- Email: sazidahsan3243@gmail.com
-- GitHub: https://github.com/sazid324
-- LinkedIn: https://www.linkedin.com/in/sazid-ahsan-0919b425a
+[GitHub ->](https://github.com/sazid324)
+[LinkedIn ->](https://www.linkedin.com/in/sazid-ahsan-0919b425a)
+[Resume ->](https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ)
 
 ---
 
