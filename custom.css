@@ -1,0 +1,27 @@
+/* Round the profile image and add spacing */
+img[alt="Sazid Ahsan"],
+img[src*="sazid_ahsan_professional_photo"] {
+  display: block;
+  margin: 0 auto 1.5rem; /* centers and adds gap below */
+  border-radius: 12px;   /* rounded corners */
+  max-width: 260px;
+  width: 100%;
+  height: auto;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* Modern link and text style */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+  color: #1e293b;
+  line-height: 1.6;
+}
