@@ -1,5 +1,5 @@
 title: Sazid Ahsan
 logo: /assets/images/sazid_ahsan_professional_photo.png
 description: Welcome to my portfolio! I’m Sazid, a full-stack developer passionate about building impactful and user-centered digital experiences.
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
