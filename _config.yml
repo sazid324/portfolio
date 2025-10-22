@@ -1,5 +1,81 @@
-title: Sazid Ahsan
-logo: /assets/images/sazid_ahsan_professional_photo.png
-description: Welcome to my portfolio! I’m Sazid, a full-stack developer passionate about building impactful and user-centered digital experiences.
-show_downloads: false
+# --------------------------------------------
+# Portfolio Configuration for Sazid Ahsan
+# --------------------------------------------
+
+title: "Sazid Ahsan"
+logo: "/assets/images/sazid_ahsan_professional_photo.png"
+description: >
+  Welcome to my portfolio!  
+  I’m Sazid, a full-stack developer passionate about creating innovative, 
+  user-focused, and scalable digital experiences.
 theme: jekyll-theme-minimal
+show_downloads: false
+
+# --------------------------------------------
+# Site Settings
+# --------------------------------------------
+
+author:
+  name: "Sazid Ahsan Toushik"
+  email: "sazidahsan3243@gmail.com"
+  location: "Narsingdi, Bangladesh"
+  linkedin: "https://www.linkedin.com/in/sazid-ahsan-0919b425a"
+  github: "https://github.com/sazid324"
+  resume: "https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ"
+
+# --------------------------------------------
+# Social Links (optional)
+# --------------------------------------------
+
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/sazid324"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/sazid-ahsan-0919b425a"
+  - name: "Resume"
+    url: "https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ"
+
+# --------------------------------------------
+# SEO & Metadata
+# --------------------------------------------
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+url: "https://sazid324.github.io"   # Update to your actual portfolio URL
+baseurl: ""                         # Leave blank unless using a subpath
+
+# Meta info for search engines and social media
+seo:
+  type: "Person"
+  name: "Sazid Ahsan Toushik"
+  twitter_card: "summary_large_image"
+  image: "/assets/images/sazid_ahsan_professional_photo.png"
+  sameAs:
+    - "https://github.com/sazid324"
+    - "https://www.linkedin.com/in/sazid-ahsan-0919b425a"
+
+# --------------------------------------------
+# Theme Customization
+# --------------------------------------------
+
+# Add a clean, modern accent color for links & highlights
+colors:
+  accent: "#2563eb"   # modern blue (Tailwind-inspired)
+  background: "#ffffff"
+  text: "#1e293b"
+
+# Optional custom CSS for further styling
+# (Create assets/css/style.scss and import it here)
+sass:
+  style: compressed
+
+# --------------------------------------------
+# Markdown & Build Settings
+# --------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
