@@ -2,9 +2,9 @@
 
 I’m Sazid Ahsan Toushik, a full-stack developer passionate about creating innovative, user-focused, and scalable web solutions.
 
-[GitHub ● ](https://github.com/sazid324)
-[LinkedIn ● ](https://www.linkedin.com/in/sazid-ahsan-0919b425a)
-[Resume](https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ)
+[GitHub](https://github.com/sazid324)
+ ● [LinkedIn](https://www.linkedin.com/in/sazid-ahsan-0919b425a)
+ ● [Resume](https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ)
 
 ---
 
@@ -52,9 +52,9 @@ Technical focus: Next.js, React, TypeScript, Tailwind CSS, Django (REST), Postgr
 
 - [Front‑End Software Engineering — Skyscanner / Forage](https://1drv.ms/b/c/4933e43be0c5d84b/EZLIC_G9GM1CtZqt_rM-hfQBJf4PYkqaEcq_I9iqbPKDeA?e=RQyefm)
 - [Python Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ERn7A8vawBhDrLiSg_OGdVUBAQu54ecr_DioxVaUpIJusA?e=a89W4T)
-- [React Development - Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ETsJSTzVgt5Dvwnoy-XMcv4BYvvdc5zWtD0iTvss9DBQkA?e=rhbTyB)
+- [React Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ETsJSTzVgt5Dvwnoy-XMcv4BYvvdc5zWtD0iTvss9DBQkA?e=rhbTyB)
 - [REST API Implementation — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EXNvCGs_zNZMmmJcctwDwY8BKKm-Q3n8zl1RRpZfLkdwog?e=9o9NXb)
-- [SQL - HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EdDAt47CMelDjO4N9vrcjEIBfAIDt5GbBSYIDdwfXXJwUg?e=4OV1hN)
+- [SQL — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EdDAt47CMelDjO4N9vrcjEIBfAIDt5GbBSYIDdwfXXJwUg?e=4OV1hN)
 
 ---
 
