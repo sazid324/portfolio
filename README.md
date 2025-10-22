@@ -80,6 +80,7 @@ Developed a modular API-first backend and a unified, intuitive frontend experien
 ## Contact
 
 If you’d like to collaborate or see more work, get in touch:
+
 **Email:** sazidahsan3243@gmail.com  
 
 ---
