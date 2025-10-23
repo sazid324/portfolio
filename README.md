@@ -1,6 +1,6 @@
 # Sazid Ahsan Toushik — Full-Stack Developer
 
-**Full-Stack Developer | Problem Solver | Tech Enthusiast**
+*Full-Stack Developer | Problem Solver | Tech Enthusiast*
 
 I’m passionate about building innovative, user-focused, and scalable web solutions that make a real impact.  
 My work focuses on clean code, practical design, and production-ready systems.
