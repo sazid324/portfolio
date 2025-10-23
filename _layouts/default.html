@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>{{ page.title | default: site.title }}</title>
+		{% if site.logo %}
+		<link rel="icon" href="{{ site.logo | relative_url }}" />
+		{% endif %} {%- comment -%} Link to the compiled stylesheet produced by
+		Jekyll from `assets/css/style.scss`. Using `relative_url` keeps it correct
+		when served from a subpath. {%- endcomment -%}
+		<link
+			rel="stylesheet"
+			href="{{ '/assets/css/style.css' | relative_url }}"
+		/>
+
+		{{ content_for_head }}
+	</head>
+	<body>
+		<header class="container header">
+			<div class="brand">
+				{% if site.logo %}
+				<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" />
+				{% endif %}
+				<div>
+					<div class="title">{{ site.title }}</div>
+					<div class="subtitle">{{ site.description }}</div>
+				</div>
+			</div>
+		</header>
+
+		<main class="container">{{ content }}</main>
+
+		<footer class="footer">
+			&copy; {{ site.time | date: '%Y' }} {{ site.title }}
+		</footer>
+	</body>
+</html>
