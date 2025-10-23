@@ -7,11 +7,11 @@
 		{% if site.logo %}
 		<link rel="icon" href="{{ site.logo | relative_url }}" />
 		{% endif %} {%- comment -%} Link to the compiled stylesheet produced by
-		Jekyll from `assets/css/style.scss`. Using `relative_url` keeps it correct
+		Jekyll from `style.css`. Using `relative_url` keeps it correct
 		when served from a subpath. {%- endcomment -%}
 		<link
 			rel="stylesheet"
-			href="{{ '/assets/css/style.css' | relative_url }}"
+			href="{{ 'style.css' | relative_url }}"
 		/>
 
 		{{ content_for_head }}
