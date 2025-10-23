@@ -22,16 +22,18 @@ Next.js, React, TypeScript, Tailwind CSS, Django (REST), PostgreSQL/MySQL, authe
 ## Featured Projects
 
 ### Artiven — E-commerce Platform
+
 **Role:** Full-Stack Developer  
 An e-commerce platform for selling printed products such as t-shirts and mugs.  
-Built secure authentication, product and order management, and a dynamic admin dashboard.  
+Built secure authentication, product and order management, and a dynamic admin dashboard.
 
 **Tech Stack:** Next.js, Django REST Framework, PostgreSQL, NextAuth, Tailwind CSS
 
 ### Nexkit — Online Utilities Website
+
 **Role:** Full-Stack Engineer  
 A multifunctional tools platform offering QR/barcode generation, file conversion, unit conversion, and more.  
-Developed a modular API-first backend and a unified, intuitive frontend experience.  
+Developed a modular API-first backend and a unified, intuitive frontend experience.
 
 **Tech Stack:** Next.js, Django REST Framework, PostgreSQL, NextAuth
 
@@ -40,9 +42,10 @@ Developed a modular API-first backend and a unified, intuitive frontend experien
 ## Professional Experience
 
 **Full-Stack Developer — Banizzik, Dhaka**  
-*February 2025 — August 2025*  
-- Built a user-friendly e-commerce platform using Next.js and Django REST Framework.  
-- Implemented secure authentication, product and order management, and admin tools.  
+_February 2025 — August 2025_
+
+- Built a user-friendly e-commerce platform using Next.js and Django REST Framework.
+- Implemented secure authentication, product and order management, and admin tools.
 - Improved site performance, maintainability, and scalability through modular architecture.
 
 ---
@@ -50,28 +53,28 @@ Developed a modular API-first backend and a unified, intuitive frontend experien
 ## Education
 
 **Honours, National University, Bangladesh**  
-*January 2022 — Present*
+_January 2022 — Present_
 
 ---
 
 ## Certifications
 
-- [Front-End Software Engineering — Skyscanner / Forage](https://1drv.ms/b/c/4933e43be0c5d84b/EZLIC_G9GM1CtZqt_rM-hfQBJf4PYkqaEcq_I9iqbPKDeA?e=RQyefm)  
-- [Python Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ERn7A8vawBhDrLiSg_OGdVUBAQu54ecr_DioxVaUpIJusA?e=a89W4T)  
-- [React Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ETsJSTzVgt5Dvwnoy-XMcv4BYvvdc5zWtD0iTvss9DBQkA?e=rhbTyB)  
-- [REST API Implementation — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EXNvCGs_zNZMmmJcctwDwY8BKKm-Q3n8zl1RRpZfLkdwog?e=9o9NXb)  
+- [Front-End Software Engineering — Skyscanner / Forage](https://1drv.ms/b/c/4933e43be0c5d84b/EZLIC_G9GM1CtZqt_rM-hfQBJf4PYkqaEcq_I9iqbPKDeA?e=RQyefm)
+- [Python Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ERn7A8vawBhDrLiSg_OGdVUBAQu54ecr_DioxVaUpIJusA?e=a89W4T)
+- [React Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ETsJSTzVgt5Dvwnoy-XMcv4BYvvdc5zWtD0iTvss9DBQkA?e=rhbTyB)
+- [REST API Implementation — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EXNvCGs_zNZMmmJcctwDwY8BKKm-Q3n8zl1RRpZfLkdwog?e=9o9NXb)
 - [SQL — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EdDAt47CMelDjO4N9vrcjEIBfAIDt5GbBSYIDdwfXXJwUg?e=4OV1hN)
 
 ---
 
 ## Skills
 
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Shadcn UI |
-| **Backend** | Python, Django, Django REST Framework, REST API design |
-| **Databases** | PostgreSQL, MySQL |
-| **Others** | Git, SQL, HTML, CSS, JavaScript, JWT, NextAuth | 
+| Category      | Technologies                                           |
+| ------------- | ------------------------------------------------------ |
+| **Frontend**  | Next.js, React, TypeScript, Tailwind CSS, Shadcn UI    |
+| **Backend**   | Python, Django, Django REST Framework, REST API design |
+| **Databases** | PostgreSQL, MySQL                                      |
+| **Others**    | Git, SQL, HTML, CSS, JavaScript, JWT, NextAuth         |
 
 ---
 
@@ -79,7 +82,7 @@ Developed a modular API-first backend and a unified, intuitive frontend experien
 
 If you’d like to collaborate or see more work, get in touch:
 
-**Email:** sazidahsan3243@gmail.com  
+**Email:** sazidahsan3243@gmail.com
 
 ---
 
