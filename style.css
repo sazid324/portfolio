@@ -1,0 +1,62 @@
+/* Two-column layout: fixed left (sidebar) and scrollable right (content) */
+:root {
+	--sidebar-width: 320px;
+	--gap: 24px;
+	--bg: #ffffff;
+	--sidebar-bg: #0b1220;
+	--text: #e6eef8;
+}
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+body {
+	font-family: Inter, system-ui, Segoe UI, Roboto, Arial;
+	background: var(--bg);
+	color: #111;
+}
+
+.site-shell {
+	display: flex;
+	min-height: 100vh;
+}
+.site-sidebar {
+	width: var(--sidebar-width);
+	flex: 0 0 var(--sidebar-width);
+	background: var(--sidebar-bg);
+	color: var(--text);
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	padding: 28px;
+	box-shadow: 2px 0 8px rgba(0, 0, 0, 0.12);
+}
+.site-sidebar .brand img {
+	width: 72px;
+	height: 72px;
+	border-radius: 12px;
+	display: block;
+	margin-bottom: 12px;
+}
+.site-main {
+	margin-left: calc(var(--sidebar-width) + var(--gap));
+	flex: 1;
+	padding: 28px;
+	overflow: auto;
+}
+
+@media (max-width: 900px) {
+	.site-shell {
+		display: block;
+	}
+	.site-sidebar {
+		position: relative;
+		width: 100%;
+		height: auto;
+	}
+	.site-main {
+		margin-left: 0;
+	}
+}

@@ -17,22 +17,19 @@
 		{{ content_for_head }}
 	</head>
 	<body>
-		<header class="container header">
-			<div class="brand">
-				{% if site.logo %}
-				<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" />
-				{% endif %}
-				<div>
+		<div class="site-shell">
+			<aside class="site-sidebar">
+				<div class="brand">
+					{% if site.logo %}
+					<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" />
+					{% endif %}
 					<div class="title">{{ site.title }}</div>
 					<div class="subtitle">{{ site.description }}</div>
 				</div>
-			</div>
-		</header>
-
-		<main class="container">{{ content }}</main>
-
-		<footer class="footer">
-			&copy; {{ site.time | date: '%Y' }} {{ site.title }}
-		</footer>
+			</aside>
+			<section class="site-main">
+				<main class="container">{{ content }}</main>
+			</section>
+		</div>
 	</body>
 </html>
