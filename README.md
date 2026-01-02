@@ -1,6 +1,6 @@
-# Sazid Ahsan Toushik — Full-Stack Developer
+# Sazid Ahsan Toushik — Backend Developer
 
-**Full-Stack Developer · Problem Solver · Tech Enthusiast**
+**Backend Developer · Problem Solver · Tech Enthusiast**
 
 I’m passionate about building innovative, user-focused, and scalable web solutions that make a real impact.  
 My work focuses on clean code, practical design, and production-ready systems.
@@ -11,7 +11,7 @@ My work focuses on clean code, practical design, and production-ready systems.
 
 ## About Me
 
-I’m a full-stack developer dedicated to creating user-centric and efficient web applications.  
+I’m a backend developer dedicated to creating user-centric and efficient web applications.  
 I enjoy solving real-world problems through technology and continuously learning new frameworks and tools.
 
 **Technical Focus:**  
@@ -23,7 +23,7 @@ Next.js, React, TypeScript, Tailwind CSS, Django (REST), PostgreSQL/MySQL, authe
 
 ### Artiven — E-commerce Platform
 
-**Role:** Full-Stack Developer  
+**Role:** Backend Developer  
 An e-commerce platform for selling printed products such as t-shirts and mugs.  
 Built secure authentication, product and order management, and a dynamic admin dashboard.
 
@@ -31,7 +31,7 @@ Built secure authentication, product and order management, and a dynamic admin d
 
 ### Nexkit — Online Utilities Website
 
-**Role:** Full-Stack Engineer  
+**Role:** Backend Engineer  
 A multifunctional tools platform offering QR/barcode generation, file conversion, unit conversion, and more.  
 Developed a modular API-first backend and a unified, intuitive frontend experience.
 
@@ -41,7 +41,7 @@ Developed a modular API-first backend and a unified, intuitive frontend experien
 
 ## Professional Experience
 
-**Full-Stack Developer — Banizzik, Dhaka**  
+**Backend Developer — Banizzik, Dhaka**  
 _February 2025 — August 2025_
 
 - Built a user-friendly e-commerce platform using Next.js and Django REST Framework.
