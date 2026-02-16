@@ -40,7 +40,7 @@ Developed a modular API-first backend and a unified, intuitive frontend experien
 ## Professional Experience
 
 **Backend Developer — Banizzik, Dhaka**  
-\_February 2025 — February 2026
+_February 2025 — February 2026_
 
 - Built a user-friendly e-commerce platform using Next.js and Django REST Framework.
 - Implemented secure authentication, product and order management, and admin tools.
