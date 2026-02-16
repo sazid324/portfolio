@@ -1,6 +1,6 @@
 # Sazid Ahsan Toushik — Backend Developer
 
-**Backend Developer · Problem Solver · Tech Enthusiast**
+**Backend Developer · Problem Solver**
 
 I’m passionate about building innovative, user-focused, and scalable web solutions that make a real impact.  
 My work focuses on clean code, practical design, and production-ready systems.
