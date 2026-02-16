@@ -5,7 +5,7 @@
 I’m passionate about building innovative, user-focused, and scalable web solutions that make a real impact.  
 My work focuses on clean code, practical design, and production-ready systems.
 
-[GitHub](https://github.com/sazid324) • [LinkedIn](https://www.linkedin.com/in/sazid-ahsan-0919b425a) • [Resume](https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ)
+[GitHub](https://github.com/sazid324) • [LinkedIn](https://www.linkedin.com/in/sazidahsan) • [Resume](https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ)
 
 ---
 
@@ -15,23 +15,23 @@ I’m a backend developer dedicated to creating user-centric and efficient web a
 I enjoy solving real-world problems through technology and continuously learning new frameworks and tools.
 
 **Technical Focus:**  
-Next.js, React, TypeScript, Tailwind CSS, Django (REST), PostgreSQL/MySQL, authentication (NextAuth, JWT), REST API development.
+Django (REST), PostgreSQL/MySQL, Next.js, React, TypeScript, Tailwind CSS, Authentication (NextAuth, JWT), REST API development.
 
 ---
 
 ## Featured Projects
 
-### Artiven — E-commerce Platform
+### Artzyne — POD Platform
 
-**Role:** Backend Developer  
-An e-commerce platform for selling printed products such as t-shirts and mugs.  
+**Role:** Fullstack Developer  
+An POD platform for selling printed products such as t-shirts and mugs.  
 Built secure authentication, product and order management, and a dynamic admin dashboard.
 
 **Tech Stack:** Next.js, Django REST Framework, PostgreSQL, NextAuth, Tailwind CSS
 
 ### Nexkit — Online Utilities Website
 
-**Role:** Backend Engineer  
+**Role:** Fullstack Developer  
 A multifunctional tools platform offering QR/barcode generation, file conversion, unit conversion, and more.  
 Developed a modular API-first backend and a unified, intuitive frontend experience.
 
@@ -59,11 +59,13 @@ _January 2022 — Present_
 
 ## Certifications
 
-- [Front-End Software Engineering — Skyscanner / Forage](https://1drv.ms/b/c/4933e43be0c5d84b/EZLIC_G9GM1CtZqt_rM-hfQBJf4PYkqaEcq_I9iqbPKDeA?e=RQyefm)
-- [Python Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ERn7A8vawBhDrLiSg_OGdVUBAQu54ecr_DioxVaUpIJusA?e=a89W4T)
-- [React Development — Programming Hero](https://1drv.ms/b/c/4933e43be0c5d84b/ETsJSTzVgt5Dvwnoy-XMcv4BYvvdc5zWtD0iTvss9DBQkA?e=rhbTyB)
-- [REST API Implementation — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EXNvCGs_zNZMmmJcctwDwY8BKKm-Q3n8zl1RRpZfLkdwog?e=9o9NXb)
-- [SQL — HackerRank](https://1drv.ms/b/c/4933e43be0c5d84b/EdDAt47CMelDjO4N9vrcjEIBfAIDt5GbBSYIDdwfXXJwUg?e=4OV1hN)
+- [Advanced Django Rest Framework — Codio](https://www.coursera.org/account/accomplishments/verify/Z3EBBLUULQ6L)
+- [Back-End Developer Capstone — Meta](https://www.coursera.org/account/accomplishments/verify/0X3SZFK5JE6N)
+- [Django Application Development with SQL and Databases — IBM](https://www.coursera.org/account/accomplishments/verify/AUAIUB264FNW)
+- [SQL — HackerRank](https://www.hackerrank.com/certificates/67973F0DE6B2)
+- [REST API Implementation — HackerRank](https://www.hackerrank.com/certificates/08f6709c2731)
+- [Python Development — Programming Hero](https://uat.programming-hero.com/certificates/PH60117)
+- [React Development — Programming Hero](https://uat.programming-hero.com/certificates/PH59932)
 
 ---
 
