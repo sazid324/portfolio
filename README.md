@@ -2,8 +2,7 @@
 
 **Backend Developer · Problem Solver**
 
-I’m passionate about building innovative, user-focused, and scalable web solutions that make a real impact.  
-My work focuses on clean code, practical design, and production-ready systems.
+I’m passionate about building innovative, user-focused, and scalable web and software solutions that make a real impact. My work focuses on clean code, practical design, and production-ready systems.
 
 [GitHub](https://github.com/sazid324) • [LinkedIn](https://www.linkedin.com/in/sazidahsan) • [Resume](https://1drv.ms/b/c/4933e43be0c5d84b/ER8tXuNFunpPgs3fwK4TX00BnajJRtbxWuSOQlDwlu5UTA?e=QxlNdZ)
 
@@ -11,11 +10,10 @@ My work focuses on clean code, practical design, and production-ready systems.
 
 ## About Me
 
-I’m a backend developer dedicated to creating user-centric and efficient web applications.  
-I enjoy solving real-world problems through technology and continuously learning new frameworks and tools.
+I am Sazid Ahsan Toushik. I feel proud to introduce myself as a programmer. My career objective is to leverage my skills and expertise to create innovative, user-centric web applications and software solutions. I am committed to staying at the forefront of technology, continuously learning, and collaborating with cross-functional teams to deliver high-quality, efficient, and scalable solutions that make a meaningful impact in the world of software development.
 
 **Technical Focus:**  
-Django (REST), PostgreSQL/MySQL, Next.js, React, TypeScript, Tailwind CSS, Authentication (NextAuth, JWT), REST API development.
+Python, Django REST framework (DRF), Database (PostgreSQL, MySQL), Next.js, React, TypeScript, Tailwind CSS, Authentication (NextAuth, JWT), REST API development.
 
 ---
 
