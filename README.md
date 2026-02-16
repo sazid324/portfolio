@@ -84,7 +84,7 @@ _January 2022 — Present_
 
 If you’d like to collaborate or see more work, get in touch:
 
-**Email:** sazidahsan3243@gmail.com
+**Email:** sazidahsan423@gmail.com
 
 ---
 
