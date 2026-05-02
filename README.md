@@ -4,7 +4,7 @@
 
 I’m passionate about building innovative, user-focused, and scalable web and software solutions that make a real impact. My work focuses on clean code, practical design, and production-ready systems.
 
-[GitHub](https://github.com/sazid324) • [LinkedIn](https://www.linkedin.com/in/sazidahsan) • [Resume](https://1drv.ms/b/c/4933e43be0c5d84b/IQAiQr56YZQLTaSwlLQGfCgHAYbQBw_s2n7J0HTX7FGT5iU?e=BkjcSW)
+[GitHub](https://github.com/sazid324) • [LinkedIn](https://www.linkedin.com/in/sazidahsan) • [Resume](https://1drv.ms/b/c/4933e43be0c5d84b/IQDwn0WkdgYqRZs_jKE_tZENAT9ZGylXhWSphjcpwV9NIyw?e=cLbFXg)
 
 ---
 
@@ -82,7 +82,7 @@ _January 2022 — Present_
 
 If you’d like to collaborate or see more work, get in touch:
 
-**Email:** sazidahsan423@gmail.com
+**Email:** sazidahsan270@gmail.com
 
 ---
 
