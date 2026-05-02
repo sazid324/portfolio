@@ -71,10 +71,10 @@ _January 2022 — Present_
 
 | Category      | Technologies                                           |
 | ------------- | ------------------------------------------------------ |
-| **Frontend**  | Next.js, React, TypeScript, Tailwind CSS, Shadcn UI    |
-| **Backend**   | Python, Django, Django REST Framework, REST API design |
-| **Databases** | PostgreSQL, MySQL                                      |
-| **Others**    | Git, SQL, HTML, CSS, JavaScript, JWT, NextAuth         |
+| **Languages**  | Python, TypeScript, JavaScript, SQL (PostgreSQL, MySQL), HTML5, CSS3 |
+| **Backend Tech**   | Django Rest Framework (DRF), JWT Authentication, RESTful API Design, Webhook |
+| **Frontend Tech** | Next.js (App Router), React.js, Tailwind CSS, Shadon UI                                      |
+| **Tools & DevOps**    | Git, GitHub, NextAuth, Docker, CI/CD Pipelines, Postman, Vercel |
 
 ---
 
